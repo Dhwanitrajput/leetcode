@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhwanitrajput/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhwanitrajput/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Dhwanitrajput/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Dhwanitrajput/leetcode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Dhwanitrajput/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Dhwanitrajput/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Dhwanitrajput/leetcode/tree/master/0136-single-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhwanitrajput/leetcode/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Dhwanitrajput/leetcode/tree/master/0037-sudoku-solver) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dhwanitrajput/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Dhwanitrajput/leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Dhwanitrajput/leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Dhwanitrajput/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Dhwanitrajput/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
